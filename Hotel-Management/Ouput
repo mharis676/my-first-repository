@@ -1,0 +1,382 @@
+
+================================================================WELCOME TO TAJ GROUP OF HOTELS========================================================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+								MENU:
+								1.OPERATE AS ADMIN
+								2.OPERATE AS CUSTOMER
+								3.EXIT
+								Enter your choice:1
+Add database of rooms in the hotel:
+Enter number of rooms: 7
+ROOM 1
+
+Enter room number : 101
+Type AC/Non-AC (A/N) : A
+Type Comfort Suite or Normal (S/N) : S
+Type Size (B/S) : B
+Daily Rent : 7000
+
+Room Added Successfully!
+ROOM 2
+
+Enter room number : 102
+Type AC/Non-AC (A/N) : A
+Type Comfort Suite or Normal (S/N) : S
+Type Size (B/S) : S
+Daily Rent : 6000
+
+Room Added Successfully!
+ROOM 3
+
+Enter room number : 102
+Invalid. Repetitive room numbers.
+
+Enter room number : 103
+Type AC/Non-AC (A/N) : A
+Type Comfort Suite or Normal (S/N) : N
+Type Size (B/S) : B
+Daily Rent : 5500
+
+Room Added Successfully!
+ROOM 4
+
+Enter room number : 104
+Type AC/Non-AC (A/N) : A
+Type Comfort Suite or Normal (S/N) : N
+Type Size (B/S) : S
+Daily Rent : 4500
+
+Room Added Successfully!
+ROOM 5
+
+Enter room number : 201
+Type AC/Non-AC (A/N) : N
+Type Comfort Suite or Normal (S/N) : N
+Type Size (B/S) : B
+Daily Rent : 3000
+
+Room Added Successfully!
+ROOM 6
+
+Enter room number : 202
+Type AC/Non-AC (A/N) : N
+Type Comfort Suite or Normal (S/N) : S
+Type Size (B/S) : B
+Daily Rent : 4000
+
+Room Added Successfully!
+ROOM 7
+
+Enter room number : 203
+Type AC/Non-AC (A/N) : N
+Type Comfort Suite or Normal (S/N) : N
+Type Size (B/S) : S
+Daily Rent : 2000
+
+Room Added Successfully!
+Database updated. Going back to main menu.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+								MENU:
+								1.OPERATE AS ADMIN
+								2.OPERATE AS CUSTOMER
+								3.EXIT
+								Enter your choice:2
+
+************************************************************************************************************************************************************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~WELCOME TO TAJ GROUP OF HOTELS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+								Menu:
+								1.Check Availability of rooms.
+								2.Search Room
+								3.Check In
+								4.Search Customer
+								5.Guest Summary
+								6.Checkout.
+								7.Go back to Main Menu.
+								Enter your choice:1
+The list of all available rooms:
+| Room No.	|	AC/Non-AC	|	Type		|	Stype		|	Rent		|	Availability  	|
+| 101.		|	A		|	S		|	B		|	7000		|	Available.	|
+| 102.		|	A		|	S		|	S		|	6000		|	Available.	|
+| 103.		|	A		|	N		|	B		|	5500		|	Available.	|
+| 104.		|	A		|	N		|	S		|	4500		|	Available.	|
+| 201.		|	N		|	N		|	B		|	3000		|	Available.	|
+| 202.		|	N		|	S		|	B		|	4000		|	Available.	|
+| 203.		|	N		|	N		|	S		|	2000		|	Available.	|
+
+************************************************************************************************************************************************************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~WELCOME TO TAJ GROUP OF HOTELS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+								Menu:
+								1.Check Availability of rooms.
+								2.Search Room
+								3.Check In
+								4.Search Customer
+								5.Guest Summary
+								6.Checkout.
+								7.Go back to Main Menu.
+								Enter your choice:2
+Do you want AC or Non-AC? (A/N): 
+A
+Do you want suite or normal room?
+N
+Size? (B/S)
+B
+Room found
+| 103.		|	A		|	N		|	B		|	5500		|	Available.	|
+
+************************************************************************************************************************************************************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~WELCOME TO TAJ GROUP OF HOTELS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+								Menu:
+								1.Check Availability of rooms.
+								2.Search Room
+								3.Check In
+								4.Search Customer
+								5.Guest Summary
+								6.Checkout.
+								7.Go back to Main Menu.
+								Enter your choice:2
+Do you want AC or Non-AC? (A/N): 
+A
+Do you want suite or normal room?
+N
+Size? (B/S)
+S
+Room found
+| 104.		|	A		|	N		|	S		|	4500		|	Available.	|
+
+************************************************************************************************************************************************************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~WELCOME TO TAJ GROUP OF HOTELS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+								Menu:
+								1.Check Availability of rooms.
+								2.Search Room
+								3.Check In
+								4.Search Customer
+								5.Guest Summary
+								6.Checkout.
+								7.Go back to Main Menu.
+								Enter your choice:3
+Enter room number=103
+Room available.
+| 103.		|	A		|	N		|	B		|	5500		|	Available.	|
+Do you wish to continue? Press(Y/y)N
+Enter room number=104
+Room available.
+| 104.		|	A		|	N		|	S		|	4500		|	Available.	|
+Do you wish to continue? Press(Y/y)Y
+Enter customer name: Jace Herondale
+Enter Customer address: City of Bones
+Enter mobile number: 9999999999
+Enter number of days of stay: 5
+Your total bill will approx be Rs.22500.
+Min adv payment=5625. What will you be paying?5000
+Enter valid amount.9000
+Thank you. Booking confirmed.
+--------------------------------------------------------------
+Booking Id: 1
+Name: Jace Herondale
+Room no.: 104
+Date: Thu Nov  5 21:26:02 2020
+
+************************************************************************************************************************************************************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~WELCOME TO TAJ GROUP OF HOTELS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+								Menu:
+								1.Check Availability of rooms.
+								2.Search Room
+								3.Check In
+								4.Search Customer
+								5.Guest Summary
+								6.Checkout.
+								7.Go back to Main Menu.
+								Enter your choice:3
+Enter room number=201
+Room available.
+| 201.		|	N		|	N		|	B		|	3000		|	Available.	|
+Do you wish to continue? Press(Y/y)y
+Enter customer name: Clary Fairchild
+Enter Customer address: City of Ashes
+Enter mobile number: 88888989898
+Phone number should be 10 digits.
+Enter mobile number: 8889998898
+Enter number of days of stay: 6
+Your total bill will approx be Rs.18000.
+Min adv payment=4500. What will you be paying?5000
+Thank you. Booking confirmed.
+--------------------------------------------------------------
+Booking Id: 2
+Name: Clary Fairchild
+Room no.: 201
+Date: Thu Nov  5 21:26:44 2020
+
+************************************************************************************************************************************************************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~WELCOME TO TAJ GROUP OF HOTELS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+								Menu:
+								1.Check Availability of rooms.
+								2.Search Room
+								3.Check In
+								4.Search Customer
+								5.Guest Summary
+								6.Checkout.
+								7.Go back to Main Menu.
+								Enter your choice:5
+Guest Summary:
+Id.		|	Name						|	Phone				|	Address						|	Room no	: 	|	Status			|
+1		| Jace Herondale                | 9999999999			| City of Bones                 | 104			|		-			|
+2		| Clary Fairchild               | 8889998898			| City of Ashes                 | 201			|		-			|
+
+************************************************************************************************************************************************************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~WELCOME TO TAJ GROUP OF HOTELS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+								Menu:
+								1.Check Availability of rooms.
+								2.Search Room
+								3.Check In
+								4.Search Customer
+								5.Guest Summary
+								6.Checkout.
+								7.Go back to Main Menu.
+								Enter your choice:3
+Enter room number=201
+Room Occupied. Please choose another room.
+
+************************************************************************************************************************************************************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~WELCOME TO TAJ GROUP OF HOTELS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+								Menu:
+								1.Check Availability of rooms.
+								2.Search Room
+								3.Check In
+								4.Search Customer
+								5.Guest Summary
+								6.Checkout.
+								7.Go back to Main Menu.
+								Enter your choice:3
+Enter room number=202
+Room available.
+| 202.		|	N		|	S		|	B		|	4000		|	Available.	|
+Do you wish to continue? Press(Y/y)y
+Enter customer name: Isabelle Lightwood
+Enter Customer address: Idris
+Enter mobile number: 9865328754
+Enter number of days of stay: 6
+Your total bill will approx be Rs.24000.
+Min adv payment=6000. What will you be paying?15000
+Thank you. Booking confirmed.
+--------------------------------------------------------------
+Booking Id: 3
+Name: Isabelle Lightwood
+Room no.: 202
+Date: Thu Nov  5 21:28:03 2020
+
+************************************************************************************************************************************************************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~WELCOME TO TAJ GROUP OF HOTELS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+								Menu:
+								1.Check Availability of rooms.
+								2.Search Room
+								3.Check In
+								4.Search Customer
+								5.Guest Summary
+								6.Checkout.
+								7.Go back to Main Menu.
+								Enter your choice:4
+Enter booking id of customer.111
+No customer found.
+
+************************************************************************************************************************************************************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~WELCOME TO TAJ GROUP OF HOTELS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+								Menu:
+								1.Check Availability of rooms.
+								2.Search Room
+								3.Check In
+								4.Search Customer
+								5.Guest Summary
+								6.Checkout.
+								7.Go back to Main Menu.
+								Enter your choice:4
+Enter booking id of customer.3
+Id.		|	Name						|	Phone				|	Address						|	Room no	: 	|	Status			|
+3  		| Isabelle Lightwood            | 9865328754			| Idris                         | 202			|		-		|
+
+************************************************************************************************************************************************************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~WELCOME TO TAJ GROUP OF HOTELS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+								Menu:
+								1.Check Availability of rooms.
+								2.Search Room
+								3.Check In
+								4.Search Customer
+								5.Guest Summary
+								6.Checkout.
+								7.Go back to Main Menu.
+								Enter your choice:5
+Guest Summary:
+Id.		|	Name						|	Phone				|	Address						|	Room no	: 	|	Status			|
+1		| Jace Herondale                | 9999999999			| City of Bones                 | 104			|		-			|
+2		| Clary Fairchild               | 8889998898			| City of Ashes                 | 201			|		-			|
+3		| Isabelle Lightwood            | 9865328754			| Idris                         | 202			|		-			|
+
+************************************************************************************************************************************************************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~WELCOME TO TAJ GROUP OF HOTELS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+								Menu:
+								1.Check Availability of rooms.
+								2.Search Room
+								3.Check In
+								4.Search Customer
+								5.Guest Summary
+								6.Checkout.
+								7.Go back to Main Menu.
+								Enter your choice:6
+Enter room number= 201
+CHECKING OUT.
+2		| Clary Fairchild               | 8889998898			| City of Ashes                 | 201			|		-		|
+Your total bill is 18000
+Adv payment: 5000
+Hence, pending payment= Rs.13000
+Thank you! Visit Again :)
+
+************************************************************************************************************************************************************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~WELCOME TO TAJ GROUP OF HOTELS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+								Menu:
+								1.Check Availability of rooms.
+								2.Search Room
+								3.Check In
+								4.Search Customer
+								5.Guest Summary
+								6.Checkout.
+								7.Go back to Main Menu.
+								Enter your choice:5
+Guest Summary:
+Id.		|	Name						|	Phone				|	Address						|	Room no	: 	|	Status			|
+1		| Jace Herondale                | 9999999999			| City of Bones                 | 104			|		-			|
+2		| Clary Fairchild               | 8889998898			| City of Ashes                 | 201			|	CHECKED OUT.	|
+3		| Isabelle Lightwood            | 9865328754			| Idris                         | 202			|		-			|
+
+************************************************************************************************************************************************************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~WELCOME TO TAJ GROUP OF HOTELS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+								Menu:
+								1.Check Availability of rooms.
+								2.Search Room
+								3.Check In
+								4.Search Customer
+								5.Guest Summary
+								6.Checkout.
+								7.Go back to Main Menu.
+								Enter your choice:7
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+								MENU:
+								1.OPERATE AS ADMIN
+								2.OPERATE AS CUSTOMER
+								3.EXIT
+								Enter your choice:3
+Thank you!

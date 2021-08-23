@@ -1,0 +1,23 @@
+|TICKET INFORMATION:
+
+Name: nomi l
+Phone: 03336318715
+Address: hnd
+Passport Number: 555555
+Origin: LONDON
+Destination: PARIS
+Food: Vegetarian
+Number of Seats: 1
+Class: Economy
+Date of departure: 17122021
+Time: 4.00 PM
+Ticket: HF856
+Bill(in pakistani rupees): 17049/-
+
+|STATUS CONFIRMED
+
+Pick'n Drop: YES
+
+Pickup Location: hnd
+Drop Off: LONDON Airport
+Fare: 300/-
